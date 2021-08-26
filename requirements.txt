@@ -3,3 +3,6 @@ numpy
 matplotlib 
 seaborn
 folium
+statsmodels
+scipy
+sklearn
